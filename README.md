@@ -1,2 +1,2 @@
 # git_test
-testing git function (.)
+testing git function (Odin project)
